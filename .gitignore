@@ -1,0 +1,6 @@
+*.o
+LRanalyzer
+*.tgz
+*.tar.gz
+.DS_Store
+
